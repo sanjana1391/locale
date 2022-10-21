@@ -10,33 +10,38 @@
 
 ## About
 
-## Technologies
-***
+## :dart:Technologies
+
 - Medusa.js
 - Next.js
 
-### Participants
+### :woman_technologist:Participants
 
 
 | Name          | Github        | Discord       |Gmail                       | 
 | ------------- | ------------- | ------------- |--------------------------- |
 | Sanjana Jain  | sanjana1391   | sanjana#4990  |jain.sanjana1002@gmail.com  |
-| Astha Rai     | astha114      | Content Cell  |Content Cell                |
+| Astha Rai     | astha114      | astha#9193    |astharai572@gmail.com                |
 | Ishika Verma  | ishikaverma372| ishika#0095   |ishiverma1999@gmail.com     |
 
 
 
-### Description
+### :page_facing_up:Description
 
 A medusa.js and next.js designed ecommerce website to allow people to search native, traditional and famous products globally and buy them with an initiative to support artisians work!!
 
 
 
-## Preview
+## :bookmark:Preview
+
+
+https://user-images.githubusercontent.com/55924455/197296913-7d580411-9200-4e0a-9428-f0da880d5461.mp4
+
+
 
 ## Set up Project
 
-### Prerequisites
+### :mag_right:Prerequisites
 Before Cloning the repository ,Ensure to download -
 
 - [Node.js](https://nodejs.org/en/download/) Latest LTS Version: 16.18.0 (includes npm 8.19.2) 
@@ -46,7 +51,7 @@ Before Cloning the repository ,Ensure to download -
 - [Next.js](https://docs.medusajs.com/starters/nextjs-medusa-starter)
 
 
-### Install Project
+### :computer:Install Project
 
 1. Clone the repository:
 
@@ -58,6 +63,7 @@ git clone https://github.com/sanjana1391/locale
 
 ```bash
 cd locale
+cd my-medusa-store
 medusa develop
 ```
 4.  While medusa server is running,On different terminal run-
@@ -68,12 +74,20 @@ npm run dev
 
 Locale - Next.js storefront will start running at localhost:8000
 
+5.To check the admin ,(ensure that medusa server is running)
+
+```bash
+cd medusa-admin
+npm install
+npm rum start
+```
 
 
 
-## demo
 
-## Refrences
+## :sparkles:demo
+
+## :books:Refrences
 - [Medusa Documentation](https://docs.medusajs.com/quickstart/quick-start/) 
 - [Next.js Documentation](https://docs.medusajs.com/starters/nextjs-medusa-starter)
 - [Minio Plugin](https://min.io/docs/minio/windows/administration/minio-console.html#minio-console)  

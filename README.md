@@ -16,20 +16,12 @@
 
 ### Participants
 
-* [Sanjana Jain](https://example.com)
-email id-
-discord_id-
-github-
 
-* [Astha Rai](https://example.com)
-email id-
-discord_id-
-github-
-
-* [Ishika Verma](https://example.com)
-email id-
-discord_id-
-github-
+| Name          | Github        | Discord       |Gmail         | 
+| ------------- | ------------- | ------------- |------------- |
+| Sanjana Jain  | Content Cell  | Content Cell  |Content Cell  |
+| Astha Rai     | Content Cell  | Content Cell  |Content Cell  |
+| Ishika Verma  | Content Cell  | Content Cell  |Content Cell  |
 
 
 
@@ -81,5 +73,10 @@ Locale - Next.js storefront will start running at localhost:8000
 ## Steps to install the project
 
 ## Refrences
+- [Medusa Documentation](https://docs.medusajs.com/quickstart/quick-start/) 
+- [Next.js Documentation](https://docs.medusajs.com/starters/nextjs-medusa-starter)
+- [Minio Plugin](https://min.io/docs/minio/windows/administration/minio-console.html#minio-console)  
+
+
 
 

@@ -12,16 +12,17 @@
 
 ## Technologies
 ***
-
+- Medusa.js
+- Next.js
 
 ### Participants
 
 
-| Name          | Github        | Discord       |Gmail         | 
-| ------------- | ------------- | ------------- |------------- |
-| Sanjana Jain  | Content Cell  | Content Cell  |Content Cell  |
-| Astha Rai     | Content Cell  | Content Cell  |Content Cell  |
-| Ishika Verma  | Content Cell  | Content Cell  |Content Cell  |
+| Name          | Github        | Discord       |Gmail                       | 
+| ------------- | ------------- | ------------- |--------------------------- |
+| Sanjana Jain  | sanjana1391   | sanjana#4990  |jain.sanjana1002@gmail.com  |
+| Astha Rai     | astha114      | Content Cell  |Content Cell                |
+| Ishika Verma  | ishikaverma372| ishika#0095   |ishiverma1999@gmail.com     |
 
 
 
@@ -68,9 +69,9 @@ npm run dev
 Locale - Next.js storefront will start running at localhost:8000
 
 
-## Features
 
-## Steps to install the project
+
+## demo
 
 ## Refrences
 - [Medusa Documentation](https://docs.medusajs.com/quickstart/quick-start/) 

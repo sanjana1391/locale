@@ -21,7 +21,7 @@
 | Name          | Github        | Discord       |Gmail                       | 
 | ------------- | ------------- | ------------- |--------------------------- |
 | Sanjana Jain  | sanjana1391   | sanjana#4990  |jain.sanjana1002@gmail.com  |
-| Astha Rai     | astha114      | astha#9193    |astharai572@gmail.com                |
+| Astha Rai     | astha114      | astha#9193    |astharai572@gmail.com       |
 | Ishika Verma  | ishikaverma372| ishika#0095   |ishiverma1999@gmail.com     |
 
 
